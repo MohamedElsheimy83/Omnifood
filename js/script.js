@@ -1,7 +1,7 @@
 // update current date (copyright)
 const yearEl = document.querySelector(".year");
 const cuurentYear = new Date().getFullYear();
-yearEl.textContent = cuurentYear;
+yearEl.textContent = 2025;
 
 ///////////////////////////////////////////////////////////
 
