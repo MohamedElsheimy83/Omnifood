@@ -1,5 +1,5 @@
 # Omnifood
-Responsive landing page using HTML, CSS and JavaScript
+Responsive landing page using HTML, CSS and JavaScript.
 
 https://onmifood-elsheimy.netlify.app/
 
