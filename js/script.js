@@ -91,7 +91,7 @@ checkFlexGap();
 
 // This works basically like a media query for jQuery, where we can take different actions depending on the screen width
 
-$(window).resize(function () {
+/*$(window).resize(function () {
   var nav = $(".js--main-nav");
 
   var icon = $(".js--nav-icon i");
@@ -110,7 +110,7 @@ $(window).resize(function () {
     icon.removeClass("ion-close-round");
   }
 });
-
+*/
 // https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js
 
 /*
